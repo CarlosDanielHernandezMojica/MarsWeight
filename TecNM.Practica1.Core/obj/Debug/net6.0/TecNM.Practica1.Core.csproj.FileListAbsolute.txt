@@ -1,0 +1,12 @@
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/bin/Debug/net6.0/TecNM.Practica1.Core.deps.json
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/bin/Debug/net6.0/TecNM.Practica1.Core.dll
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/bin/Debug/net6.0/ref/TecNM.Practica1.Core.dll
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/bin/Debug/net6.0/TecNM.Practica1.Core.pdb
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.csproj.AssemblyReference.cache
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.AssemblyInfoInputs.cache
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.AssemblyInfo.cs
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.csproj.CoreCompileInputs.cache
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.dll
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/ref/TecNM.Practica1.Core.dll
+/home/manjaropc/Documentos/Dev/NET/TecNM.Practica1/TecNM.Practica1.Core/obj/Debug/net6.0/TecNM.Practica1.Core.pdb
